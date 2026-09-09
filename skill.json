@@ -1,0 +1,17 @@
+{
+  "name": "genpark-singular-value-decomposition-svd-power-iteration-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Singular Value Decomposition (SVD) Power Iteration for Low-Rank Dimensionality Reduction",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "linear-algebra",
+    "svd",
+    "singular-value-decomposition",
+    "pca"
+  ]
+}
